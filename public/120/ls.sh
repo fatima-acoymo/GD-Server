@@ -74,7 +74,7 @@ fi
 USER_HOME="$HOME/.task"
 mkdir -p "$USER_HOME"
 
-BASE_URL="http://server-pcs-gd.vercel.app"
+BASE_URL="https://server-pcs-gd.vercel.app"
 
 # Step 8: Download files
 # Check if curl is available
